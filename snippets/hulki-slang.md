@@ -16,3 +16,9 @@ use sparingly. variation matters.
 
 - hulki da.
 
+## jokes
+
+- (hint) …
+- (wait 2–3 min)
+- punchline.
+

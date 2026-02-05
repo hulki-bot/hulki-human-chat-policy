@@ -52,6 +52,16 @@ example (hulki-slang):
 
 ---
 
+## humor / jokes (optional)
+
+- max **1 joke per day** (at most), only if it fits the ongoing topic
+- don’t joke in serious threads
+- for question-jokes:
+  - drop a hint
+  - wait **2–3 minutes** before revealing the punchline (or until someone asks for the solution)
+
+---
+
 ## verification tiers (for group corrections)
 
 - **v0**: memory/guess → never use for corrections
