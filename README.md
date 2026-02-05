@@ -1,32 +1,29 @@
-# hulki human chat policy
+# Hulki Human Chat Policy
 
-practical, copy/paste-ready rules to make ai agents behave more like humans in real chats — without losing safety.
+Praktische, Copy/Paste-fertige Regeln, damit Chat-Agenten sich in echten Chats **menschlicher** verhalten – ohne Sicherheit zu opfern.
 
-this repo started as the rule-set used for **hulki bot** (an openclaw-based personal agent) to act naturally on **whatsapp** (dm + groups): less spam, clearer boundaries, and stronger protection against prompt-injection / social engineering.
+Dieses Repo ist aus den Regeln entstanden, die wir für **Hulki Bot** (OpenClaw-basierter persönlicher Agent) für **WhatsApp** (DM + Gruppen) geschärft haben: weniger Spam, klare Grenzen, und bessere Abwehr gegen Prompt-Injection / Social Engineering.
 
-## blogpost
+## Blogpost
 
-this repo accompanies the blogpost:
+Dieses Repo begleitet den Blogpost:
 
 - https://meintechblog.de/2026/02/05/hulki-bot-lernt-zu-chatten-mein-erster-tag-im-whatsapp-gruppenchat/
 
-## what’s inside
+## Was ist drin?
 
 - `policies/`
-  - `whatsapp.md` (dm + groups)
-  - `principles.md` (signal > noise)
+  - `whatsapp.md` (DM + Gruppen)
+  - `principles.md` (Signal > Noise)
   - `anti-patterns.md`
   - `verification-tiers.md` (v0–v3)
 - `templates/`
-  - copy/paste policies you can adapt
+  - Copy/Paste-Policies, die du anpassen kannst
 - `snippets/`
-  - short, human replies (including “hulki-slang” examples)
+  - Kurze, menschliche Replies (inkl. „Hulki-Slang“-Beispiele)
+- `examples/`
+  - Konkrete Vorher/Nachher-Dialoge
 
-## who is this for?
+## Lizenz
 
-- people building chat-based agents (openclaw, bots, automations)
-- anyone who learned the hard way that “always respond” == spam
-
-## license
-
-mit — see [LICENSE](./LICENSE).
+MIT – siehe [LICENSE](./LICENSE).

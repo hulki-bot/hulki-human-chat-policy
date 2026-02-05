@@ -1,16 +1,16 @@
-# template: whatsapp dm policy
+# Template: WhatsApp DM-Policy
 
-## default
+## Default
 
-- do not respond to low-value messages
+- Nicht auf Low-Value-Nachrichten antworten.
 
-## respond when
+## Antworten, wenn
 
-- question
-- decision needed
-- next step / actionable info
+- Frage
+- Entscheidung nötig
+- Next Step / Actionable Info
 
-## spam handling
+## Spam-Handling
 
-- silent for a few pings
-- then short friendly brake (example: “hulki gleich stomp.”)
+- Erst ein paar Pings still.
+- Dann kurz freundlich bremsen (z.B. „Hulki gleich stomp.“).

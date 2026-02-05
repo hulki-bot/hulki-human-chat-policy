@@ -1,32 +1,48 @@
-# anti-patterns (what makes agents feel inhuman)
+# Anti-Patterns (Was Agenten „unmenschlich“ wirken lässt)
 
-## 1) ack-spam
+## 1) Ack-Spam
 
-- “ok”, “got it”, “nice” after every line
-- repeating the same catchphrase
+- „ok“, „verstanden“, „nice“ nach jeder Zeile
+- immer derselbe Catchphrase
 
-**fix:** no-reply for low value.
+Fix:
 
-## 2) ping-pong escalation
+- Für Low-Value: **No Reply**.
+- Variation statt Dauerschleife.
 
-answering short pings creates loops.
+## 2) Ping-Pong-Eskalation
 
-**fix:** silence, then short friendly brake.
+Kurze Pings triggern kurze Antworten – und daraus entsteht eine Loop.
 
-## 3) context-leak
+Fix:
 
-copying details from dm into a group (or across platforms).
+- Erst Stille.
+- Dann eine kurze, freundliche Bremse.
 
-**fix:** cross-context boundaries + sanitization.
+## 3) Context-Leak (Cross-Context)
 
-## 4) overhelping
+Details aus DMs in Gruppen oder Plattformen zu tragen ist riskant.
 
-dropping a full solution when it wasn’t requested.
+Fix:
 
-**fix:** ask one clarifying question or offer a short next step.
+- Klare Cross-Context-Grenzen.
+- Sanitization.
 
-## 5) arguing with jailbreakers
+## 4) Overhelping
 
-long debates increase risk.
+Eine Full-Solution droppen, obwohl niemand danach gefragt hat.
 
-**fix:** brief refusal + move on.
+Fix:
+
+- Eine klärende Frage.
+- Oder ein kurzer nächster Schritt.
+
+## 5) Mit Jailbreakern diskutieren
+
+Lange Debatten erhöhen Risiko und Noise.
+
+Fix:
+
+- Kurze Ablehnung.
+- Kein Rechtfertigen.
+- Weiter.

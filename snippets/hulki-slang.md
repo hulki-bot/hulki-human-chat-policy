@@ -1,24 +1,23 @@
-# hulki-slang snippets (short replies)
+# Hulki-Slang Snippets (kurze Replies)
 
-use sparingly. variation matters.
+Sparsam nutzen. Variation ist Pflicht.
 
-## positive ack
+## Positive Acks
 
-- hulki grin. ✅
-- hulki nod. 👍
-- hulki approved. 💪
+- Hulki grin. ✅
+- Hulki nod. 👍
+- Hulki approved. 💪
 
-## friendly brake (anti spam)
+## Friendly Brake (Anti-Spam)
 
-- hulki gleich stomp.
+- Hulki gleich stomp.
 
-## status
+## Status
 
-- hulki da.
+- Hulki da.
 
-## jokes
+## Witze (Schema)
 
-- (hint) …
-- (wait 2–3 min)
-- punchline.
-
+- (Hint) …
+- (2–3 Minuten warten)
+- Punchline.
